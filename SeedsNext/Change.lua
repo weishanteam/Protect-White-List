@@ -1,7 +1,6 @@
 {
 	"ver": "1.0.0",
-	"changelog": nil,
-	"loadstring": nil,
-  "WhiteList":true
+	"changelog": "nil",
+	"loadstring": "nil"
   
 }
